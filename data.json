@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "Novel"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopia"
+  },
+  {
+    "id": 3,
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "year": 1937,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter",
+    "author": "J. K. Rowling",
+    "year": 1997,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 5,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "Novel"
+  },
+  {
+    "id": 6,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "genre": "Novel"
+  }
+]
